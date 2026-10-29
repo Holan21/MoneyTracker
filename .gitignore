@@ -3,3 +3,4 @@
 /composer-setup.php
 /storage/uploads/*
 /storage/data.txt
+.phpunit.result.cache
